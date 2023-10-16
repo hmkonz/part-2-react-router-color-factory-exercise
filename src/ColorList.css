@@ -1,0 +1,33 @@
+.ColorList {
+    text-align: center;
+}
+
+.ColorList-header {
+    background-color: blue;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.ColorList-header a {
+    color: white;
+}
+
+.ColorList-title {
+    font-size: 40px;
+}
+
+.ColorList-color {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ColorList-intro {
+    font-size: large;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
